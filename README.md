@@ -3,7 +3,7 @@
 **Name:** Shahanta Dawn B. Balanza  
 **Assigned Gene:** GALT  
 **Associated Disease:** Classic Galactosemia  
-**Date:** September 24, 2026
+**Date:** September 25, 2026
 
 ## UCSC Cell Browser Activity
 
