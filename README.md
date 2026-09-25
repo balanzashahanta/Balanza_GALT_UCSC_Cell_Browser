@@ -98,3 +98,23 @@ Little or no detectable GALT expression is observed in most cells across the **P
 
 In this dataset, GALT expression appears to be low or undetected in most measured hepatocytes. This result should be interpreted as the expression pattern observed in this particular single-cell dataset and does not mean that GALT is completely absent from hepatocytes or from liver tissue.
 
+## 5. Cell Types and Clusters
+
+**a. Cell type/cluster with the strongest visible expression:**  
+**Pericentral Hepatocyte** shows a relatively noticeable concentration of cells with detectable GALT expression.
+
+**b. Another cell type/cluster with detectable expression:**  
+**Periportal Hepatocyte** also contains cells with detectable GALT expression.
+
+**c. Cell type/cluster with relatively low or undetected expression:**  
+**UGT+ Hepatocyte** shows relatively little detectable GALT expression compared with the larger hepatocyte populations.
+
+**d. Is the expression pattern broad or cell-type restricted?**  
+The expression pattern is **low but broadly distributed across multiple hepatocyte clusters** rather than being strongly restricted to one cell type.
+
+**e. Possible biological explanation:**  
+A possible explanation is that different hepatocyte populations can have different metabolic states and gene-expression profiles, which may result in differences in GALT detection. However, this interpretation is based only on the selected Human Liver Cell Atlas dataset, and the high proportion of zero-expression measurements may also reflect limitations of single-cell expression detection.
+
+![Screenshot 3](images/03_cell_types.png)
+
+**Figure 3. GALT expression across labeled hepatocyte cell clusters.**
