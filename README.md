@@ -118,3 +118,18 @@ A possible explanation is that different hepatocyte populations can have differe
 ![Screenshot 3](images/03_cell_types.png)
 
 **Figure 3. GALT expression across labeled hepatocyte cell clusters.**
+
+## 6. Expression Plot
+
+**a. Which cells/cluster did you select?**  
+The **Pericentral Hepatocyte** cluster was selected using the rectangular cell-selection tool. A total of **70,038 cells** were selected, representing approximately 31% of the dataset.
+
+**b. Does your selected group show higher, lower, or similar expression compared with the comparison cells?**  
+The selected Pericentral Hepatocyte cells show a **similar overall GALT expression distribution** compared with the other cells. Both groups have most expression values concentrated near zero, with a smaller number of cells showing detectable expression.
+
+**c. What does the expression plot add that was not obvious from the UMAP/t-SNE map?**  
+The violin plot shows the **distribution of GALT expression values** in the selected cells compared with the other cells. This makes it easier to see that most cells have low or zero expression and to compare the expression distributions between the selected and comparison groups.
+
+![Figure 4](images/04_expression_plot.png)
+
+### Figure 4. GALT expression comparison between selected Pericentral Hepatocyte cells and other cells.
