@@ -41,6 +41,10 @@ The liver was selected because the GALT gene encodes galactose-1-phosphate uridy
 
 The Human Liver Cell Atlas - Hepatocyte Cells dataset was selected because the liver is directly relevant to galactose metabolism and the clinical effects of classic galactosemia. The dataset contains human hepatocyte cells, allowing the expression of GALT to be examined across different hepatocyte cell populations.
 
+![Screenshot 1](images/01_dataset.png)
+
+**Figure 1. Selected Human Liver Cell Atlas dataset.**
+
 ## 3. Understanding the Cell Map
 
 ### Visualization Type
@@ -71,24 +75,26 @@ The UMAP axes do not represent physical locations in the liver. The positions of
 
 ## 4. Assigned Gene Expression
 
-### Gene Searched
+**a. Assigned gene symbol:**  
+GALT
 
-**Gene Symbol:** GALT
+**b. Dataset used:**  
+Human Liver Cell Atlas - Hepatocyte Cells
 
-**Dataset:** Human Liver Cell Atlas - Hepatocyte Cells
+**c. Is expression widespread, restricted, or low/undetected?**  
+GALT expression is **low or undetected in most cells**. The expression legend shows that 93.8% of cells have an expression value of 0, while 5.7% have a value of 1 and 0.5% have a value of 2.
 
-### Expression Pattern
+**d. Which cluster(s) appear to contain cells with stronger expression?**  
+Detectable GALT expression is present in several hepatocyte clusters. The **Pericentral Hepatocyte** cluster appears to contain a relatively noticeable number of cells with detectable expression, although the overall expression level remains low.
 
-GALT expression was **low or undetected in most cells** in the dataset. The expression legend showed that 93.8% of cells had an expression value of 0, while 5.7% had a value of 1 and 0.5% had a value of 2. Only a very small fraction of cells showed higher expression values.
+**e. Which cluster(s) appear to contain little or no detectable expression?**  
+Little or no detectable GALT expression is observed in most cells across the **Periportal Hepatocyte, Pericentral Hepatocyte, Ribosomal+ Hepatocyte, Mito+ Hepatocyte, UGT+ Hepatocyte,** and **SERPINE1+ Hepatocyte** clusters.
 
-### Clusters with Detectable Expression
+![Figure 2](images/02_gene_expression.png)
 
-GALT expression was detectable in scattered cells across the hepatocyte map, but there was **no clearly dominant hepatocyte cluster showing strong GALT expression**. The overall expression pattern was low across the different hepatocyte populations.
-
-### Clusters with Little or No Detectable Expression
-
-Most of the visible hepatocyte clusters showed little or no detectable GALT expression, including **Periportal Hepatocyte, Pericentral Hepatocyte, Ribosomal+ Hepatocyte, Mito+ Hepatocyte, UGT+ Hepatocyte,** and **SERPINE1+ Hepatocyte**.
+**Figure 2. GALT expression in the Human Liver Cell Atlas hepatocyte dataset.**
 
 ### Interpretation
 
 In this dataset, GALT expression appears to be low or undetected in most measured hepatocytes. This result should be interpreted as the expression pattern observed in this particular single-cell dataset and does not mean that GALT is completely absent from hepatocytes or from liver tissue.
+
