@@ -133,3 +133,27 @@ The violin plot shows the **distribution of GALT expression values** in the sele
 ![Figure 4](images/04_expression_plot.png)
 
 ### Figure 4. GALT expression comparison between selected Pericentral Hepatocyte cells and other cells.
+
+## 7. Marker Genes
+
+**a. Cluster/Cell Type Examined:**  
+Pericentral Hepatocyte
+
+**b. Marker Gene 1:**  
+CYP3A4 — Score: 2.0 — Positive
+
+**c. Marker Gene 2:**  
+CYP2E1 — Score: 2.0 — Positive
+
+**d. Marker Gene 3:**  
+ADH4 — Score: 2.0 — Positive
+
+**e. Does the assigned gene behave like a cell-type marker in this dataset?**  
+No. GALT does not appear to behave like a strong cell-type marker in this dataset because its expression was mostly low or undetected across the hepatocyte populations. In contrast, the Pericentral Hepatocyte cluster had specific marker genes such as CYP3A4, CYP2E1, and ADH4 with positive marker scores. This suggests that GALT is not uniquely identifying the Pericentral Hepatocyte cell type in this dataset.
+
+**Screenshot 5:**
+
+![Figure 5 - Cluster Marker Genes](images/05_marker_genes.png)
+
+**Figure 5. Cluster marker genes for the Pericentral Hepatocyte cluster.**
+
