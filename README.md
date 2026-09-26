@@ -157,3 +157,27 @@ No. GALT does not appear to behave like a strong cell-type marker in this datase
 
 **Figure 5. Cluster marker genes for the Pericentral Hepatocyte cluster.**
 
+## 8. Disease Gene vs. Marker Gene
+
+**a. Assigned disease gene:**  
+GALT
+
+**b. Marker gene:**  
+CYP3A4
+
+**c. Which gene shows a more cell-type-restricted expression pattern?**  
+CYP3A4 shows a more cell-type-restricted expression pattern because its stronger expression is concentrated mainly in the **Pericentral Hepatocyte** cluster.
+
+**d. Which gene appears more broadly expressed?**  
+GALT appears more broadly distributed across the hepatocyte populations, although its overall expression is low and many cells show undetected expression.
+
+**e. What does this comparison teach you about the difference between a disease-associated gene and a cell-type marker gene?**  
+The comparison shows that a disease-associated gene does not necessarily have a cell-type-restricted expression pattern. A cell-type marker such as CYP3A4 can show strong expression in a particular cell population, while a disease-associated gene such as GALT can have a broader or lower expression pattern without uniquely identifying one cell type.
+
+### Comparison Observation
+
+The CYP3A4 map showed strong expression concentrated in the **Pericentral Hepatocyte** cluster, whereas GALT showed mostly low or undetected expression across the hepatocyte populations. This demonstrates the difference between a gene used to characterize a cell type and a disease-associated gene involved in an important biological function.
+
+![Figure 6 - CYP3A4 Expression](images/06_marker_gene_CYP3A4.png)
+
+**Figure 6. CYP3A4 expression across the hepatocyte cell map.**
